@@ -1,0 +1,93 @@
+Country Name,Country Code,Series Name,Series Code,Y1995,Y1996,Y1997,Y1998,Y1999,Y2000,Y2001,Y2002,Y2003,Y2004,Y2005,Y2006,Y2007,Y2008,Y2009,Y2010,Y2011,Y2012,Y2013,Y2014,Y2015,Y2016,Y2017,Y2018,Y2019
+Russian Federation,RUS,Access to water,5.51.01.09.water,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Russian Federation,RUS,Agricultural census,3.01.04.01.agcen,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+Russian Federation,RUS,Balance of payments manual in use,2.04.01.01.excncpt,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Russian Federation,RUS,Child malnutrition,5.51.01.02.malnut,0,0,0,0,0,0,0,0,0,0,0.333333333333333,0.333333333333333,0.333333333333333,0.333333333333333,0.333333333333333,0.333333333333333,0.333333333333333,0.333333333333333,0.333333333333333,0,0,0,0,0,0
+Russian Federation,RUS,Child mortality,5.51.01.03.mortal,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Russian Federation,RUS,Consumer price index base year,2.01.03.01.prcpbase,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1
+Russian Federation,RUS,External debt reporting status,5.04.01.01.exdebt,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Russian Federation,RUS,Gender equality,5.51.01.07.gender,0,0.33333,0.33333,0.33333,0.33333,0.33333,0,0,0,0,0.333333333333333,0.333333333333333,0.333333333333333,0.666666666666667,0.666666666666667,0.666666666666667,1,0.666666666666667,0.666666666666667,0.666666666666667,0.66667,0.66667,1,1,1
+Russian Federation,RUS,Government finance accounting,3.02.01.02.fscov,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Russian Federation,RUS,Health survey,5.13.01.01.hlthsurv,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.5,0,0,0,0
+Russian Federation,RUS,HIV/AIDS,5.51.01.05.hiv,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian Federation,RUS,Immunization,5.51.01.04.immun,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Russian Federation,RUS,Import and export price indexes,5.04.01.02.impexp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian Federation,RUS,Income poverty,5.51.01.01.poverty,0.66667,0.66667,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Russian Federation,RUS,Industrial production index,5.01.01.01.indust,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Russian Federation,RUS,Maternal health,5.51.01.06.matern,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Russian Federation,RUS,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,10,10,10,10,10,10,10,10,20,60,90,80,80,80,80,90,90,70,70,80,80,90,90,90,90
+Russian Federation,RUS,National accounts base year,2.01.01.02.nabase,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,1
+Russian Federation,RUS,National immunization coverage,5.13.01.01.who,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Russian Federation,RUS,Overall Average,IQ.SCI.OVRL,43.3333333333333,46.6666666666667,47.7777666666667,51.1111,51.1111,52.2222,51.1111,44.4444333333333,55.5555666666667,75.5555555555556,87.7777777777778,76.6666666666667,83.3333333333333,83.3333333333333,84.4444444444444,87.7777777777778,90,82.2222222222222,82.2222222222222,84.4444444444444,81.1111333333333,81.1111333333333,83.3333333333333,83.3333333333333,82.2222333333333
+Russian Federation,RUS,Per capita GDP growth,5.51.01.10.gdp,0.33333,0.66667,0.66667,0.66667,0.66667,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Russian Federation,RUS,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,40,50,53.3333,63.3333,63.3333,66.6666,63.3333,63.3333,66.6667,66.6666666666667,73.3333333333333,70,70,70,73.3333333333333,73.3333333333333,80,76.6666666666667,76.6666666666667,73.3333333333333,73.3334,73.3334,80,80,76.6667
+Russian Federation,RUS,Population census,3.11.01.01.popcen,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Russian Federation,RUS,Poverty survey,5.14.01.01.povsurv,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Russian Federation,RUS,Primary completion,5.51.01.08.primcomp,0,0.33333,0.33333,0.33333,0.33333,0.33333,0.33333,0.33333,0.66667,0.666666666666667,0.666666666666667,0.333333333333333,0.333333333333333,0,0.333333333333333,0.333333333333333,0.666666666666667,0.666666666666667,0.666666666666667,0.666666666666667,0.66667,0.66667,1,1,0.66667
+Russian Federation,RUS,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,80,80,80,80,80,80,80,60,80,100,100,80,100,100,100,100,100,100,100,100,90,80,80,80,80
+Russian Federation,RUS,Special Data Dissemination Standard,5.21.01.01.sdds,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Russian Federation,RUS,UNESCO reporting,5.12.01.01.unesco,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,1,0,1,1,1,1,1,1
+Russian Federation,RUS,Vital registration system coverage,3.11.01.03.popreg,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Access to water,5.51.01.09.water,0,0.5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Agricultural census,3.01.04.01.agcen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+Ukraine,UKR,Balance of payments manual in use,2.04.01.01.excncpt,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Child malnutrition,5.51.01.02.malnut,0,0,0,0,0,0,0.33333,0.33333,0.66667,0.33333,0.33333,0.66667,0.66667,0.66667,0.66667,0.66667,0.66667,0.66667,0.33333,0.33333,0.33333,0,0,0,0
+Ukraine,UKR,Child mortality,5.51.01.03.mortal,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Consumer price index base year,2.01.03.01.prcpbase,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,External debt reporting status,5.04.01.01.exdebt,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Gender equality,5.51.01.07.gender,0.33333,0.33333,0.33333,0.33333,0.33333,0.33333,0.33333,0.33333,0.66667,0.66667,1,1,1,1,1,1,1,1,1,1,1,1,0.66667,0.66667,0.33333
+Ukraine,UKR,Government finance accounting,3.02.01.02.fscov,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Health survey,5.13.01.01.hlthsurv,0,0,0,0,0,0,0.5,0.5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.5,0.5,0
+Ukraine,UKR,HIV/AIDS,5.51.01.05.hiv,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Immunization,5.51.01.04.immun,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Import and export price indexes,5.04.01.02.impexp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1
+Ukraine,UKR,Income poverty,5.51.01.01.poverty,0.66667,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Industrial production index,5.01.01.01.indust,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Maternal health,5.51.01.06.matern,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,10,10,10,10,10,10,10,10,20,80,90,90,80,80,90,90,90,100,100,100,100,100,100,100,100
+Ukraine,UKR,National accounts base year,2.01.01.02.nabase,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,National immunization coverage,5.13.01.01.who,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Overall Average,IQ.SCI.OVRL,31.1111333333333,38.3333333333333,38.8889,43.3333333333333,42.2222,42.2222,46.6666333333333,47.7777666666667,56.6667,83.3333333333333,86.6666666666667,87.7777777777778,84.4444444444444,84.4444444444444,87.7777777777778,87.7777777777778,88.8888888888889,92.2222222222222,91.1111111111111,91.1111111111111,91.1111,83.3333333333333,77.7778,77.7778,72.2222
+Ukraine,UKR,Per capita GDP growth,5.51.01.10.gdp,0.66667,0.66667,0.66667,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,53.3334,65,66.6667,80,76.6666,76.6666,79.9999,83.3333,90.0001,90,90,93.33333,93.33333,93.33333,93.33333,93.33333,96.66667,96.66667,93.3333333333333,93.3333333333333,93.3333,90,83.3334,83.3334,76.6666
+Ukraine,UKR,Population census,3.11.01.01.popcen,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0
+Ukraine,UKR,Poverty survey,5.14.01.01.povsurv,0.5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Primary completion,5.51.01.08.primcomp,0.66667,1,0.66667,0.66667,0.33333,0.33333,0.33333,0.66667,0.66667,1,0.66667,0.66667,0.66667,0.66667,0.66667,0.66667,1,1,1,1,1,1,0.66667,0.66667,0.33333
+Ukraine,UKR,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,30,40,40,40,40,40,50,50,60,80,80,80,80,80,80,80,80,80,80,80,80,60,50,50,40
+Ukraine,UKR,Special Data Dissemination Standard,5.21.01.01.sdds,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,UNESCO reporting,5.12.01.01.unesco,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Vital registration system coverage,3.11.01.03.popreg,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,Access to water,5.51.01.09.water,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,Agricultural census,3.01.04.01.agcen,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Belarus,BLR,Balance of payments manual in use,2.04.01.01.excncpt,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,Child malnutrition,5.51.01.02.malnut,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.33333,0.33333,0.33333,0.33333,0.33333,0.33333,0.33333,0.33333,0.33333,0.33333,0
+Belarus,BLR,Child mortality,5.51.01.03.mortal,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,Consumer price index base year,2.01.03.01.prcpbase,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,External debt reporting status,5.04.01.01.exdebt,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,Gender equality,5.51.01.07.gender,0,0,0,0,0,0.33333,0.33333,0.33333,0.33333,0.33333,0,0,0,0,0,0.33333,0.33333,0.66667,0.66667,1,1,1,1,1,1
+Belarus,BLR,Government finance accounting,3.02.01.02.fscov,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,Health survey,5.13.01.01.hlthsurv,0,0,0,0,0,0,0,0,0,0,0,0.5,1,1,1,1,1,1,1,1,1,1,1,0,0
+Belarus,BLR,HIV/AIDS,5.51.01.05.hiv,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,Immunization,5.51.01.04.immun,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,Import and export price indexes,5.04.01.02.impexp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Belarus,BLR,Income poverty,5.51.01.01.poverty,0.66667,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,Industrial production index,5.01.01.01.indust,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,Maternal health,5.51.01.06.matern,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,10,10,20,20,20,20,20,20,20,80,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90
+Belarus,BLR,National accounts base year,2.01.01.02.nabase,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,National immunization coverage,5.13.01.01.who,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,Overall Average,IQ.SCI.OVRL,38.8889,44.4444333333333,48.8889,52.2222333333333,52.2222333333333,52.2222333333333,53.3333333333333,53.3333333333333,53.3333333333333,80,83.3333333333333,80,83.3333333333333,83.3333333333333,84.4444444444444,85.5555555555555,85.5555555555555,86.6666666666667,86.6666666666667,87.7777777777778,87.7777666666667,87.7777666666667,87.7777666666667,81.1111,86.6666666666667
+Belarus,BLR,Per capita GDP growth,5.51.01.10.gdp,0.33333,0.33333,0.66667,0.66667,0.66667,0.66667,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,56.6667,63.3333,66.6667,76.6667,76.6667,76.6667,80,80,80,80,80,80,80,80,83.33333,86.66667,86.66667,90,90,93.3333333333333,93.3333,93.3333,93.3333,93.3333,90
+Belarus,BLR,Population census,3.11.01.01.popcen,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,Poverty survey,5.14.01.01.povsurv,0.5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,Primary completion,5.51.01.08.primcomp,0.66667,1,1,1,1,0.66667,0.66667,0.66667,0.66667,0.66667,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,50,60,60,60,60,60,60,60,60,80,80,70,80,80,80,80,80,80,80,80,80,80,80,60,80
+Belarus,BLR,Special Data Dissemination Standard,5.21.01.01.sdds,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,UNESCO reporting,5.12.01.01.unesco,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Belarus,BLR,Vital registration system coverage,3.11.01.03.popreg,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data from database: Statistical Capacity Indicators,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Last Updated: 02/20/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,
